@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "62427125123",
+    "firebase_url": "https://skillswap-bbf58-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "skillswap-bbf58",
+    "storage_bucket": "skillswap-bbf58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62427125123:android:2472597963e401a18ed2b6",
+        "android_client_info": {
+          "package_name": "com.example.Skillswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62427125123-r16ni02preqpdsg44vpr8v26qfeth7q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxSRvtaCJU3OE_mLCknvFchFIzvQDYjaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62427125123-r16ni02preqpdsg44vpr8v26qfeth7q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62427125123:android:159793ecacb37ad28ed2b6",
+        "android_client_info": {
+          "package_name": "com.example.skillswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62427125123-r16ni02preqpdsg44vpr8v26qfeth7q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxSRvtaCJU3OE_mLCknvFchFIzvQDYjaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62427125123-r16ni02preqpdsg44vpr8v26qfeth7q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

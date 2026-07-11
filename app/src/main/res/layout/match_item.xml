@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/txtCollege"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="College"/>
+
+        <TextView
+            android:id="@+id/txtSkillHave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Skill Have"/>
+
+        <TextView
+            android:id="@+id/txtSkillWant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Skill Want"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
